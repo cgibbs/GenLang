@@ -1,0 +1,145 @@
+Burst cannon
+Conversion beamer
+Cyclic ion blaster
+Fire Pike
+Fusion blaster
+Fusion gun
+Fusion pistol
+Inferno cannon
+Inferno Gun
+Inferno pistol
+Ion cannon
+Kroot gun
+Lasblasters
+Laser lance
+Meltabomb
+Meltagun
+Multi-melta
+Neutron blaster
+Particle accelerator
+Particle projector
+Particle whip
+Plasma Annihilator
+Plasma Blastgun
+Plasma Cannon
+Plasma Destructor
+Plasma gun
+Plasma missile
+Plasma pistol
+Plasma rifle
+Ranger long rifles
+Turbolaser Destructor
+Volcano Cannon
+Biting Blade
+C’tan Phase Sword
+Chainsabres
+Chainfist
+Chainsword
+Diresword
+Eviscerator
+Executioner
+Frost blade
+Hand flamer
+Harlequin’s Kiss
+Hunting Lance
+Lightning Claw
+Neuro-Gauntlet
+Mandiblaster
+Mirrorswords
+Power Blades
+Power Maul
+Power Sword
+Powerfist
+Scorpion Chainsword
+Scorpion’s Claw
+Shock Gauntlet
+Shock Maul
+Staff of Light
+Thunder Hammer
+Warscythe
+Witchblade
+Wraithsword
+Airbursting fragmentation launcher
+Animus Speculum
+Anti-plant grenade
+Assault cannon
+Autocannon
+Autogun
+Autopistol
+Battle Cannon
+Blind grenade
+Bolt Pistol
+Bolt Weapons
+Boltgun
+Choke grenade
+Conqueror Cannon
+Cyclone missile launcher
+Deathstrike Cannon
+Demolisher Cannon
+Earthshaker Cannon
+Eldar melta bombs
+Executioner pistol
+Exitus pistol
+Exitus rifle
+Exorcist launcher
+Frag grenade
+Grenade Launcher
+Gauss flayer
+Gauss blaster
+Gauss cannon
+Gauss Flux Arc Projector
+Hallucinogen grenade
+Havoc launcher
+Haywire grenade
+Heavy Bolter
+Heavy Gauss cannon
+Heavy stubber
+Heavy webber
+Hellhammer Cannon
+Hunter-killer missile
+Hurricane bolter
+Krak grenade
+Mega Battle Cannon
+Mega bolter
+Missile launcher
+Missile pods
+Mole Mortar
+Mortar
+Needler
+Neural Shredder
+Photon Flash flare
+Plasma grenade
+Psycannons
+Psyk-Out grenade
+Rail gun
+Rail rifle
+Rad grenade
+Rapier
+Reaper Autocannon
+Ripper gun
+Sanctifier grenade
+Scare grenade
+Shotgun
+Shuriken pistols
+Shuriken catapults
+Shuriken cannons
+Smart missiles
+Smoke grenade
+Sniper rifles
+Sniper Weapons
+Stasis grenade
+Storm bolter
+Stub Pistol
+Tanglefoot
+Tarantula
+Thudd gun
+Toxin grenade
+Typhoon missile launcher
+Vanquisher Cannon
+Vibro-cannon
+Virus grenade
+Vortex grenade
+Web pistol
+Web weapons
+Webber
+Whirlwind launcher

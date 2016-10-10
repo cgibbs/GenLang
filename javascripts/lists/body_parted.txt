@@ -19,3 +19,5 @@ legged
 ribbed
 hearted
 brained
+chinned
+bearded
