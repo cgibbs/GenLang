@@ -1,0 +1,41 @@
+eye
+testicle
+claw
+venom gland
+pituitary gland
+bone
+feces
+urine
+semen
+brain
+earwax
+penis
+knuckle
+fat
+oil
+skin
+stinger
+anus
+kidney
+liver
+stomach
+esophagus
+toe
+horn
+ear
+anklebone
+foot
+milk
+teeth
+tongue
+saliva gland
+glabella
+lips
+scrotum
+rectum
+tail
+gizzard
+gallstone
+kidneystone
+bezoar
+hoof
