@@ -19,7 +19,7 @@ kettle
 bucket
 muzzle
 pickle
-gargle
+gargler
 pirate
 captain
 hammer
@@ -46,3 +46,6 @@ spout
 giblet
 fiddler
 tipper
+nail
+hemorrhoid
+tumor

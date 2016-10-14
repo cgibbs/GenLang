@@ -1,0 +1,13 @@
+eyes
+claw
+torso
+feet
+horns
+ears
+teeth
+tongue
+tail
+nose
+chest
+breasts
+legs

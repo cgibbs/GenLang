@@ -1,0 +1,66 @@
+sword
+chalice
+cup
+die
+mace
+spear
+platter
+claymore
+helm
+apple
+amulet
+pendant
+feather
+lotus
+rose
+star
+crossbow
+pinecone
+willow branch
+oak branch
+pine branch
+crown
+harp
+drum
+bugle
+bow
+lance
+javelin
+axe
+morningstar
+pike
+hammer
+sickle
+key
+scale
+spur
+buckle
+greatsword
+greataxe
+sabre
+epee
+halberd
+poleaxe
+cutlass
+dagger
+dirk
+knife
+shield
+buckler
+falchion
+fencing sword
+katana
+gladius
+long sword
+machete
+rapier
+samshir
+seax
+scimitar
+spatha
+olive branch
+baselard
+stiletto
+hunting dagger
+parrying dagger
+egg
