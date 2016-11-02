@@ -1,0 +1,5 @@
+"%greek_names_mar%, god of %godly_domains%, %godly_domains%, and %godly_domains%. Has the %godly_parts% of the %godly_animals%, the %godly_parts% of the %godly_animals%, and the %godly_parts% of the %godly_animals%. He holds a %godly_materials% %godly_relics%, and is accompanied by a %godly_accomplices%."
+"You %insult_adjectives% %vulgar_nouns_l%%vulgar_nouns_r%!"
+"I am %40k_names_mar%, leader of the Order of the %knightly_adjectives% %knightly_nouns%. I serve %lotr_names_mar%, and I have no time for a %insult_adjectives% %insult_nouns% like you. Now step aside, %insult_nouns%, or feel the wrath of my %40k_weapons%!"
+"Why, you... you... %insult_adjectives% %insult_nouns%!"
+"You %parted_things%-%body_parted% %insult_nouns%!"

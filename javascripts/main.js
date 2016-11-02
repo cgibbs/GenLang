@@ -29,10 +29,10 @@ function generate(inp, times=1) {
             console.log("something died");
           }
         })
-    }).finally(() => console.log(input));
+    }).finally(() => console.log(RandExp.randexp(input)));
   }
 }
 
-let test = "%40k_names%, of the Order of the %knightly_adjectives% %knightly_nouns%";
+let test = "%40k_names%, of the (Order|Legion) of the %knightly_adjectives% %knightly_nouns%";
 
 generate(test);

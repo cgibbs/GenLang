@@ -2,6 +2,7 @@ eyes
 claw
 torso
 feet
+forelimbs
 horns
 ears
 teeth
@@ -9,5 +10,4 @@ tongue
 tail
 nose
 chest
-breasts
 legs
