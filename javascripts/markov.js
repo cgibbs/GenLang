@@ -74,8 +74,8 @@ function gen(names, times=25, depth=2) {
   return words.join('\n');
 }
 
-window.onload = function() {
-  document.getElementById("genButton").addEventListener("click", function(event) {
-      $("#generatedNames")[0].value = gen($("#names")[0].value.split('\n'), $("#times")[0].value);
-  }, false);
-}
+// window.onload = function() {
+//   document.getElementById("genButton").addEventListener("click", function(event) {
+//       $("#generatedNames")[0].value = gen($("#names")[0].value.split('\n'), $("#times")[0].value);
+//   }, false);
+// }
